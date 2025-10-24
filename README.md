@@ -234,19 +234,6 @@ APK sẽ được tạo tại: `build/app/outputs/flutter-apk/app-release.apk`
 
 ---
 
-## 👤 Tài Khoản Test
-
-**Giáo viên:**
-```
-Email: teacher@gmail.com
-Password: 123456
-```
-
-**Học viên:**
-```
-Email: student@gmail.com
-Password: 123456
-```
 
 ---
 
